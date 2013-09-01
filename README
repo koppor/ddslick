@@ -1,3 +1,10 @@
+! This fork does not work !
+
+I'm currently at the old version and working around the issue that `onSelected` is also called when loading the widget.
+
+In the long run, I'll switch to select2, which also supports images through its templating system.
+
+
 ddSlick
 Author: Prashant Chaudhary (http://designwithpc.com)
 Plugin Demo & Documentation: http://designwithpc.com/Plugins/ddSlick
